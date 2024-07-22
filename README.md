@@ -12,6 +12,6 @@ One to-do list among thousands, functions just like any other. Items can be adde
 
 ---
 ## Technologies used: ##
-* Vanilla JavaScript
-* SASS
+* JavaScript
+* CSS
 * HTML
