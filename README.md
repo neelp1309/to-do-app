@@ -1,5 +1,5 @@
 # Vanilla JavaScript To-Do App #
-![Project preview](https://i.imgur.com/uaiaI73.png)
+![Project preview](https://imgur.com/6uCYLWJ.png)
 
 ---
 ## Project goals ##
